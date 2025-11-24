@@ -9,5 +9,6 @@ signup
 what you can add
 ----------------------------
 replies in comment 
+like features in comments
 multiple instance of a single user 
 make intractive frontend (UI)
